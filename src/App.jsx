@@ -21,6 +21,7 @@ function App() {
       <button className="kg-button" onClick={countresthandler}>
         Reset
       </button>
+      //Example
       {/* <Demo /> */}
     </>
   );
